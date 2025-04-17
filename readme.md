@@ -15,6 +15,7 @@ At its core, machine learning is about answering questions like:
 Here is a walkthrough video of DPI's own machine learning platform BluegIL:
 
 {app-static-video&url="https://files.catbox.moe/9lx1yy.mp4"}
+<video src="https://files.catbox.moe/9lx1yy.mp4" controls></video>
 
 Types of Machine Learning
 -------------------------
