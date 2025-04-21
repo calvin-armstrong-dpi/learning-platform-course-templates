@@ -6,6 +6,9 @@ What is Machine Learning?
 
 Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of explicitly programming every rule, machine learning algorithms identify patterns in data and use those patterns to make predictions or decisions.
 
+
+<iframe src="https://uillinoisedu-my.sharepoint.com/personal/cramstro_illinois_edu/_layouts/15/Doc.aspx?sourcedoc={0a3793f3-d40d-4b7a-9559-2c103e67bfe3}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0"></iframe>
+
 At its core, machine learning is about answering questions like:
 
 - Can we predict future trends based on historical data?
