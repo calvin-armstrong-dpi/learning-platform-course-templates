@@ -40,7 +40,6 @@ There are three main types of machine learning:
 Why is Machine Learning Important?
 ----------------------------------
 
-{app-pdf-viewer&src="https://files.catbox.moe/90d8sj.pdf"}
 Machine learning is transforming industries by enabling automation, improving decision-making, and uncovering insights from data. Here are some real-world applications:
 
 - **Healthcare**: Predicting diseases, personalizing treatments.
