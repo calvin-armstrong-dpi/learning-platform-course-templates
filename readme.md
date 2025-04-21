@@ -3,13 +3,13 @@ Introduction to Machine Learning
 
 What is Machine Learning?
 -------------------------
-{app-pdf-viewer&src="https://files.catbox.moe/rc5wsh.pdf"}
+{app-pdf-viewer&src="https://files.catbox.moe/90d8sj.pdf"}
 
 
 Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of explicitly programming every rule, machine learning algorithms identify patterns in data and use those patterns to make predictions or decisions.
 
-{app-pdf-viewer&src="https://files.catbox.moe/90d8sj.pdf"}
 
+{app-pdf-viewer&src="https://files.catbox.moe/rc5wsh.pdf"}
 At its core, machine learning is about answering questions like:
 
 - Can we predict future trends based on historical data?
