@@ -7,7 +7,7 @@ What is Machine Learning?
 
 Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of explicitly programming every rule, machine learning algorithms identify patterns in data and use those patterns to make predictions or decisions.
 
-{app-pdf-viewer&src="https://files.catbox.moe/rc5wsh.pdf#toolbar-0"}
+{app-pdf-viewer&src="https://files.catbox.moe/rc5wsh.pdf"}
 
 At its core, machine learning is about answering questions like:
 
@@ -16,6 +16,7 @@ At its core, machine learning is about answering questions like:
 - Can we detect anomalies or outliers in a dataset?
 
 
+{app-pdf-viewer&src="[https://files.catbox.moe/rc5wsh.pdf](https://files.catbox.moe/90d8sj.pdf)"}
 
 Here is a walkthrough video of DPI's own machine learning platform BluegIL:
 
