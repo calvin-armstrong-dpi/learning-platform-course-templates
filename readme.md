@@ -11,6 +11,7 @@ Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses o
 {app-pdf-viewer&num=1&src="Bluegill-MVP-Presentation(1).pptx"}
 
 (app-pdf-viewer&num=2&src="https://files.catbox.moe/rc5wsh.pdf")
+
 At its core, machine learning is about answering questions like:
 
 - Can we predict future trends based on historical data?
