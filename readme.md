@@ -17,6 +17,8 @@ At its core, machine learning is about answering questions like:
  
 - Can we detect anomalies or outliers in a dataset?
 
+- {app-pdf-viewer&src="https://raw.githubusercontent.com/calvin-armstrong-dpi/lp-test-templates/main/Presentation.pptx"}
+
 Here is a walkthrough video of DPI's own machine learning platform BluegIL:
 
 {app-static-video&src="https://files.catbox.moe/9lx1yy.mp4"}
