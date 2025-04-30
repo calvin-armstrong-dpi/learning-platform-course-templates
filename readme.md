@@ -9,7 +9,6 @@ Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses o
 {app-pdf-viewer&src="https://raw.githubusercontent.com/calvin-armstrong-dpi/lp-test-templates/main/Bluegill-MVP-Presentation.pptx"}
 
 
-
 At its core, machine learning is about answering questions like:
  
 - Can we predict future trends based on historical data?
@@ -17,8 +16,6 @@ At its core, machine learning is about answering questions like:
 - Can we classify objects or events into categories?
  
 - Can we detect anomalies or outliers in a dataset?
-
-{app-pdf-viewer&src="https://files.catbox.moe/90d8sj.pdf"}
 
 Here is a walkthrough video of DPI's own machine learning platform BluegIL:
 
