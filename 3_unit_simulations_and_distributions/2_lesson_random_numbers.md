@@ -1,7 +1,8 @@
 Python provides the ability to create randomness by generating random numbers or picking randomly from a list. To
 utilize random numbers in Python, we must `import` a new library:
 ```py
-    # Import the random library, allowing the use of functions that generate random numbers
+    # Import the random library, allowing the use of 
+    # functions that generate random numbers
     import random
 ```
 
