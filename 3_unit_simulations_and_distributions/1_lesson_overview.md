@@ -6,7 +6,7 @@ Write a program that
 
 - takes an array of integers (array) and a target integer sum (sum)
 - finds all the pairs of integers in the array that when added together equals the target sum
-- return array of integer pairs (eg [[2,3], [1,4]]).
+- return array of integer pairs (eg `[[2,3], [1,4]]`).
 
 ## Understand the Problem
 
