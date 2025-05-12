@@ -13,16 +13,7 @@ Write a program that
 Before tackling the main problem, let's warm up with a simpler task to get you comfortable with the concept of searching
 for pairs in an array.
 
-- Consider the array [1, 2, 3] and a target sum of 4. Can you find a pair of numbers in this array that adds up to the
-  target sum?
-- (1, 2)
-  - Not quite. The sume of 1+2=3. We need it to sum to 4.
-- (1, 3)
-  - Yes, the pair (1, 3) adds up to 4.
-- (4)
-  - Not quite right. Re-read the previous sections and try again.
-    {: .choose_best #problem_example title="Consider the array [1, 2, 3] and a target sum of 4" points="1"
-    answer="[2]" }
+{app-quiz&num=1}
 
 Keep this process in mind as we move to the coding problem. Make sure your program works with the randomly sampled
 arrays and sums below, then get the tests to pass. Remember, the goal is not just to find the solution but to understand
