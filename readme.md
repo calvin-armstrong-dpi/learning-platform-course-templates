@@ -3,24 +3,29 @@ Introduction to Machine Learning
 
 What is Machine Learning?
 -------------------------
-
-
+ 
 Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of explicitly programming every rule, machine learning algorithms identify patterns in data and use those patterns to make predictions or decisions.
 
-{app-pdf-viewer&src="https://raw.githubusercontent.com/calvin-armstrong-dpi/lp-test-templates/main/resources/images/Presentation-1.pdf"}
+{app-ppt-viewer&src="https://raw.githubusercontent.com/calvin-armstrong-dpi/lp-test-templates/main/Bluegill-MVP-Presentation.pptx"}
+
 
 At its core, machine learning is about answering questions like:
-
+ 
 - Can we predict future trends based on historical data?
+ 
 - Can we classify objects or events into categories?
+ 
 - Can we detect anomalies or outliers in a dataset?
 
-
-{app-pdf-viewer&src="https://files.catbox.moe/90d8sj.pdf"}
+{app-ppt-viewer&src="https://raw.githubusercontent.com/calvin-armstrong-dpi/lp-test-templates/main/Presentation.pptx"}
 
 Here is a walkthrough video of DPI's own machine learning platform BluegIL:
 
-{app-static-video&src="https://files.catbox.moe/9lx1yy.mp4"}
+{app-static-video&src="DO_NOT_DELETE_1.mp4"}
+
+{app-static-video&src="DO_NOT_DELETE_2.mp4"}
+
+{app-static-video&src="DO_NOT_DELETE_3.mp4"}
 
 Types of Machine Learning
 -------------------------
