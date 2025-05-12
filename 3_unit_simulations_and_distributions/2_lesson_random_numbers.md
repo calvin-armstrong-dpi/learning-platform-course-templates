@@ -31,6 +31,8 @@ each of the numbers 1-10 are each 10% likely to show up.
 When you generate a generate many random numbers, you'll expect to see a random distribution of numbers and some areas
 where the same number appears many times in a row. Here's the output of running `random.randint(1, 6)` to generate a
 number in the range 1-6 a total of 100 times:
+
+{app-coding-practice&num=1}
 ```py
     import random
     random.randint(1, 6)
