@@ -1,6 +1,7 @@
 Python provides the ability to create randomness by generating random numbers or picking randomly from a list. To
 utilize random numbers in Python, we must `import` a new library:
-```py
+
+```python
     # Import the random library, allowing the use of 
     # functions that generate random numbers
     import random
@@ -12,7 +13,8 @@ Generating Random Numbers Using `random.randint`
 One of the primary ways we generate random numbers in Python is to generate a random integer (whole number) within a
 specified range. For example, if I want to generate a number to simulate the roll of a six-sided die, I need to generate
 a number in the range 1-6 (including the endpoints 1 and 6). With the `random` library, this is possible:
-```py
+
+```python
     # Randomly generates a number in the range 1-6, including the end points:
     random.randint(1, 6)
 ```
@@ -24,16 +26,17 @@ will not be a `2`.
 The `random.randint` function will always **generate numbers with equal probability** for each number within the range.
 This means that the probability of getting any specific number when running `random.randint(1, 10)` is only 10% -- since
 each of the numbers 1-10 are each 10% likely to show up.
-```py
+
+```python
     # Randomly generates a number in the range 1-10, including the end points:
     random.randint(1, 10)
 ```
+
 When you generate a generate many random numbers, you'll expect to see a random distribution of numbers and some areas
 where the same number appears many times in a row. Here's the output of running `random.randint(1, 6)` to generate a
 number in the range 1-6 a total of 100 times:
 
-
-```py
+```python
     import random
     random.randint(1, 6)
     # ...and running the code 100 times:
@@ -148,14 +151,16 @@ Generating Random Numbers Using `random.choice`
 
 When we need more control over the random number generation, `random.choice` requires a list to be specified and Python
 will **randomly choose one value from the list**. For example, we can still simulate rolling a six sided die:
-```py
+
+```python
     # Randomly generates a number in the range 1-6, including the end points:
     random.choice( [1, 2, 3, 4, 5, 6] )
 ```
 
 However, suppose we want to **cheat**! What if we designed a dice what is **twice as likely to land on a six than normal
 **. To account for this, we can add a second six to `random.choice`:
-```py
+
+```python
     # An unfair die, twice as likely to roll a 6 than any other value:
     random.choice( [1, 2, 3, 4, 5, 6, 6] )
     #                                ^^- An extra 6 was added!
@@ -165,7 +170,8 @@ However, suppose we want to **cheat**! What if we designed a dice what is **twic
 
 Python will pull any element from the list when using `random.choice`, so it does not always have to be a number! For
 example, if we want Python to flip a coin that has a `"heads"` and `"tails"` side, we can still use `random.choice`:
-```py
+
+```python
     random.choice( ["heads", "tails"] )
 ```
 
