@@ -26,7 +26,8 @@ Remember, interviewers want to see how you approach problems. Verbalize your tho
 break down the problem and explore solutions. It’s okay to start with a simpler, less efficient solution. You can always
 refine it later.
 
-```ruby
+{app-coding-practice&num=1}
+```starter-code
 arrays = [
   [1, 2, 3, 4, 5],
   [0, -1, 2, -3, 1],
@@ -43,13 +44,6 @@ end
 puts two_sum(array, sum)
 ```
 
-{app-coding-practice&num=1}
-
-```starter-code
-def two_sum(array, sum)
-
-end
-```
 ```tests
 describe "Array Pair Sum" do
   it "finds pairs that sum to 5 in the array [1, 2, 3, 4, 5]" do
@@ -83,6 +77,44 @@ describe "Array Pair Sum" do
     result = two_sum(large_array, target_sum)
     end_time = Time.now
     expect(end_time - start_time).to be < 1 # Test should complete quickly for an O(n) solution
+  end
+end
+```
+
+{app-coding-practice&num=2}
+
+```starter-code
+strings = [
+  "()[]{}",
+  "([)]",
+  "(]",
+  "{[]}"
+]
+string = strings.sample
+# write your program using this method
+def is_valid(string)
+
+end
+
+puts is_valid(string)
+```
+
+```tests
+describe "Balanced Parentheses" do
+  it "returns true for ()[]{}" do
+    expect(is_valid("()[]{}")).to eq(true)
+  end
+end
+---
+describe "Balanced Parentheses" do
+  it "returns false for ([)]" do
+    expect(is_valid("([)]")).to eq(false)
+  end
+end
+---
+describe "Balanced Parentheses" do
+  it "returns true for {[]}" do
+    expect(is_valid("{[]}")).to eq(true)
   end
 end
 ```
