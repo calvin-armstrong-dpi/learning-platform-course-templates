@@ -22,7 +22,7 @@ At its core, machine learning is about answering questions like:
 Here is a walkthrough video of DPI's own machine learning platform BluegIL:
 
 
-{app-static-video&src="DO_NOT_DELETE"}
+{app-static-video&src="DO_NOT_DELETE.mp4"}
 
 - For a number of years now, work has been proceeding in order to bring perfection to the crudely conceived idea of a transmission that would not only supply inverse reactive current for use in unilateral phase detractors, but would also be capable of automatically synchronizing cardinal grammeters. Such an instrument is the turbo encabulator.
 
